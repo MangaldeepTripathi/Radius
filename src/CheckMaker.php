@@ -1,7 +1,6 @@
 <?php
 
 namespace AccessManager\Radius;
-
 use AccessManager\Radius\AttributeMakers\AttributeMakerInterface;
 
 
